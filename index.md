@@ -3,7 +3,7 @@
 </head>
 <body>
 <button	onclick = "roll()" style="height:300px;width:300px">
-	Nochmal!
+	Farbe ändern!
 </button>
 <script>
 function roll(){
